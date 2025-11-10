@@ -1,5 +1,5 @@
 import { Button, ButtonProps } from "@/components/ui/button"
-import { motion } from "framer-motion"
+import { motion } from "motion/react"
 
 export function OpenInV0Button({
   url,
